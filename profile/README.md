@@ -1,12 +1,9 @@
 # BTI Fund
 
-![BTI Fund Logo](https://i.ibb.co/Rk2VQ9df/Macbook-Air-bti-fund-vercel-app.jpg)
 
 **Democratizing solar energy access through blockchain-powered investment and performance-based leasing.**
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/BTIFund/BTI Fund.svg)](https://github.com/bti-energy/BTI Fund/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/BBTIFund/BTI Fund.svg)](https://github.com/bti-energy/BTI Fund/issues)
 
 ## 🌟 About BTI Fund
 
