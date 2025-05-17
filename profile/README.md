@@ -36,13 +36,13 @@ BTI Fund creates a blockchain-powered ecosystem connecting investors, solar clie
 
 Our system integrates:
 
-- **Hardware Layer**: IoT sensors and monitoring equipment on solar installations
-- **Oracle Layer**: Secure data transmission from physical assets to blockchain
 - **Smart Contract Layer**: Core business logic and financial operations
 - **Application Layer**: User interfaces for investors, clients, and administrators
 - **Analytics Layer**: Performance metrics, impact calculations, and reporting
+- **Hardware Layer (soon)**: IoT sensors and monitoring equipment on solar installations
+- **Oracle Layer (soon)**: Secure data transmission from physical assets to blockchain
 
-### Key Technical Innovations
+### Key Technical Innovations (Future)
 
 1. **Proof of Solar Production (PoSP)**: Novel consensus mechanism validating energy production
 2. **Dynamic NFT Structures**: Solar installations as evolving NFTs with maintenance history
@@ -73,7 +73,7 @@ BTI Fund isn't just a concept - we're already making a difference:
 
 **2024 (Current)**
 
-- Launch BTI Fund platform with initial tokenization of existing installations
+- Launch BTI Fund Crowdfunding platform with initial tokenization of existing installations
 - Establish operations in Surabaya and Jakarta
 - Complete security audits of smart contracts
 
@@ -116,7 +116,7 @@ Our interdisciplinary team combines expertise in renewable energy, blockchain de
 
 ## 🏆 Hackathon Submission
 
-BTI Fund is proudly submitted to [Hackathon Name] under the [relevant track/theme].
+BTI Fund is proudly submitted to [Lisk Builder Challenge Round 1] 
 
 We believe our solution stands out because:
 
@@ -128,7 +128,7 @@ We believe our solution stands out because:
 
 ## 🌐 Demo & Links
 
-- **Live Demo**: [https://BTI Fund.btienergy.id](https://BTI Fund.btienergy.id)
+- **Live Demo**: [https://bti-fund.vercel.app/](https://bti-fund.vercel.app/)
 - **Video Demo**: [YouTube Link](https://youtu.be/BTI Fund-demo)
 - **Company Website**: [https://btienergy.id](https://btienergy.id)
 
@@ -159,7 +159,7 @@ We believe our solution stands out because:
 
 ```bash
 # Clone the repository
-git clone https://github.com/bti-energy/BTI Fund.git
+git clone https://github.com/BTIFund.git
 cd BTI Fund
 
 # Install dependencies
