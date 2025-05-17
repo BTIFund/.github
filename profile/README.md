@@ -34,8 +34,6 @@ BTI Fund creates a blockchain-powered ecosystem connecting investors, solar clie
 
 ## ⚙️ Technical Architecture
 
-![BTI Fund Architecture](path/to/architecture_diagram.png)
-
 Our system integrates:
 
 - **Hardware Layer**: IoT sensors and monitoring equipment on solar installations
