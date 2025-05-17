@@ -1,6 +1,6 @@
 # BTI Fund
 
-![BTI Fund Logo]([path/to/logo.png](https://i.ibb.co/Rk2VQ9df/Macbook-Air-bti-fund-vercel-app.jpg))
+![BTI Fund Logo](https://i.ibb.co/Rk2VQ9df/Macbook-Air-bti-fund-vercel-app.jpg)
 
 **Democratizing solar energy access through blockchain-powered investment and performance-based leasing.**
 
