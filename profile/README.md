@@ -129,7 +129,7 @@ We believe our solution stands out because:
 ## 🌐 Demo & Links
 
 - **Live Demo**: [https://bti-fund.vercel.app/](https://bti-fund.vercel.app/)
-- **Video Demo**: [YouTube Link](https://youtu.be/BTI Fund-demo)
+- **Video Demo**: [YouTube Link](https://youtu.be/MtZjsgXgk8Y)
 - **Company Website**: [https://btienergy.id](https://btienergy.id)
 
 ## 📸 Gallery
